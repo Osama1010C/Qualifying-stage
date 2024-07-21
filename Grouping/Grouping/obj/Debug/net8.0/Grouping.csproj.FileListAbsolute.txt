@@ -1,0 +1,14 @@
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Grouping\Grouping\bin\Debug\net8.0\Grouping.exe
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Grouping\Grouping\bin\Debug\net8.0\Grouping.deps.json
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Grouping\Grouping\bin\Debug\net8.0\Grouping.runtimeconfig.json
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Grouping\Grouping\bin\Debug\net8.0\Grouping.dll
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Grouping\Grouping\bin\Debug\net8.0\Grouping.pdb
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Grouping\Grouping\obj\Debug\net8.0\Grouping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Grouping\Grouping\obj\Debug\net8.0\Grouping.AssemblyInfoInputs.cache
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Grouping\Grouping\obj\Debug\net8.0\Grouping.AssemblyInfo.cs
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Grouping\Grouping\obj\Debug\net8.0\Grouping.csproj.CoreCompileInputs.cache
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Grouping\Grouping\obj\Debug\net8.0\Grouping.dll
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Grouping\Grouping\obj\Debug\net8.0\refint\Grouping.dll
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Grouping\Grouping\obj\Debug\net8.0\Grouping.pdb
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Grouping\Grouping\obj\Debug\net8.0\Grouping.genruntimeconfig.cache
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Grouping\Grouping\obj\Debug\net8.0\ref\Grouping.dll
